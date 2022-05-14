@@ -7,4 +7,4 @@ ToDo List App is a kind of app that generally used to maintain our day-to-day ta
 
 
 
-![ScreenShot](assets/images/screen-1.jpg)![ScreenShot](assets/images/screen-2.jpg)
+![ScreenShot](assets/images/screen-1.jpg)   ![ScreenShot](assets/images/screen-2.jpg)
